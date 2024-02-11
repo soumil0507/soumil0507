@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 ### Hello there 👋
 
 #### A Software Developement Engineer / Appliend Machine Learning Engineer at [Altor Smart Mobility](https://www.altorsmartmobility.com/)<br>
