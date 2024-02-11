@@ -1,5 +1,8 @@
+### Hello there 👋
+
+#### A Software Developement Engineer / Appliend Machine Learning Engineer at [Altor Smart Mobility](https://www.altorsmartmobility.com/);<br>
 - 👋 Hi, I’m Soumil Bose
-- 👀 I’m interested in Data Analytics and Finance
+- 👀 I’m a driven Software Developer building 
 - 🌱 I’m currently learning ML, DL, DA, and equity research
 - 💞️ I’m looking to collaborate on projects that include finance and Data Analytics combined
 - 📫 Mail me at soumil0507@gmail.com
