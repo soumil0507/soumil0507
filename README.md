@@ -1,6 +1,6 @@
 ![Header](./soumil-bose-github-header-image.png)
 
-#### A Software Developer / Appliend Machine Learning Engineer at [Altor Smart Mobility](https://www.altorsmartmobility.com/)<br>
+#### A Software Developer / Applied Machine Learning Engineer at [Altor Smart Mobility](https://www.altorsmartmobility.com/)<br>
 
 ## Languages
 
@@ -50,13 +50,6 @@
 
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumil-bose-a0177a16b/)
-
-
-- 👋 Hi, I’m Soumil Bose
-- 👀 I’m a driven Software Developer building 
-- 🌱 I’m currently learning ML, DL, DA, and equity research
-- 💞️ I’m looking to collaborate on projects that include finance and Data Analytics combined
-- 📫 Mail me at soumil0507@gmail.com
 
 <!---
 soumil0507/soumil0507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
