@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Software Developement Engineer / Appliend Machine Learning Engineer at [Altor Smart Mobility](https://www.altorsmartmobility.com/);<br>
+#### A Software Developement Engineer / Appliend Machine Learning Engineer at [Altor Smart Mobility](https://www.altorsmartmobility.com/)<br>
 - 👋 Hi, I’m Soumil Bose
 - 👀 I’m a driven Software Developer building 
 - 🌱 I’m currently learning ML, DL, DA, and equity research
