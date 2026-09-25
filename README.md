@@ -1,6 +1,6 @@
 ![Header](./soumil-bose-github-header-image.png)
 
-#### A Software Developer / Applied Machine Learning Engineer at [Clipboard]([https://www.altorsmartmobility.com/](https://www.clipboard.com/))<br>
+#### A Software Developer / Applied Machine Learning Engineer at [Clipboard](https://www.clipboard.com/)<br>
 
 ## Languages
 
