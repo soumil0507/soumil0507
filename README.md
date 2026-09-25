@@ -1,6 +1,6 @@
 ![Header](./soumil-bose-github-header-image.png)
 
-#### A Software Developer / Applied Machine Learning Engineer at [Altor Smart Mobility](https://www.altorsmartmobility.com/)<br>
+#### A Software Developer / Applied Machine Learning Engineer at [Clipboard]([https://www.altorsmartmobility.com/](https://www.clipboard.com/))<br>
 
 ## Languages
 
@@ -44,6 +44,7 @@
 ## Productivity
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Linear]
 
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumil-bose-a0177a16b/)
